@@ -1,0 +1,2 @@
+conan-center https://conan.bintray.com True
+dena-local http://localhost:8081/artifactory/api/conan/dena-local True
