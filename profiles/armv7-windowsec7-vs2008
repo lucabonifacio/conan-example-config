@@ -1,17 +1,12 @@
 [settings]
 arch=armv7
-build_type=None
+build_type=Release
 compiler=Visual Studio
 compiler.version=9
 os=WindowsCE
 os.version=7.0
-os.platform=ANY
+os.platform=Stellar_EC7 (ARMv4I)
 
 [options]
 [build_requires]
-
 [env]
-CONAN_CMAKE_SYSTEM_NAME=WindowsCE
-CONAN_CMAKE_SYSTEM_VERSION=7.00
-CONAN_CMAKE_SYSTEM_PROCESSOR=arm
-CONAN_CMAKE_GENERATOR_PLATFORM=Stellar_EC7 (ARMv4I)
